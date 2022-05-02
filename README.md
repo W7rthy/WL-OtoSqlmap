@@ -1,2 +1,5 @@
-# WL-OtoSqlmap
-We have prepared a Python software that will allow you to use Sqlmap automatically. enjoy yourself
+You can contact for questions
+
+|+| Discord   - W7rthy#9481
+
+|+| İnstagram - w7rthy / omerswz 
